@@ -1,0 +1,2 @@
+# LagerFlow
+Inventory Management Application
